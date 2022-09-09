@@ -1,0 +1,15 @@
+h1{
+    color: red;
+  }
+h3{
+     font-style: italic; color: royalblue;
+  }
+ol{
+     font-family: Verdana, Geneva, Tahoma, sans-serif; color: crimson;
+  }
+ul{
+     font-family: Verdana, Geneva, Tahoma, sans-serif; color: crimson;
+  }
+  div{
+    color: rgb(248, 72, 8); letter-spacing: 5px;
+     }
